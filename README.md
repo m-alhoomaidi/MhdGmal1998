@@ -47,9 +47,7 @@ Mohammed </a> <img width="30px" src="https://raw.githubusercontent.com/iampavang
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1VTp-IMZ58AS3ZPBo3sH5fr6D4crz1LGj/view">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-
       </div>
-
 </p>
 
 
@@ -121,7 +119,6 @@ Mohammed </a> <img width="30px" src="https://raw.githubusercontent.com/iampavang
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
       </a>
-
 </p>
 
 <h3 align="center">Database</h3>
@@ -201,7 +198,6 @@ Mohammed </a> <img width="30px" src="https://raw.githubusercontent.com/iampavang
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
- 
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
