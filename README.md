@@ -183,12 +183,10 @@ Mohammed </a> <img width="30px" src="https://raw.githubusercontent.com/iampavang
   <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
- 
     <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker"/>
   </a>
- 
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
@@ -209,6 +207,11 @@ Mohammed </a> <img width="30px" src="https://raw.githubusercontent.com/iampavang
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
+</p>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
 
 Credit: [Mohammed Alhomaidi](https://github.com/MdhGmal1998)
