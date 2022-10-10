@@ -18,11 +18,9 @@ Mohammed </a> <img width="30px" src="https://raw.githubusercontent.com/iampavang
 
 - 🔭 I’m currently working in <a href="https://www.facebook.com/profile.php?id=100086518200031">Intelliteclab</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on Web Application (NextJS & ReactJS) and Mobile App(React-Native) 
 
 - 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning  <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
 - 💬 Ask me about **Reactjs & React-Native**
 
@@ -45,11 +43,13 @@ Mohammed </a> <img width="30px" src="https://raw.githubusercontent.com/iampavang
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/q_4dd/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+			
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/metawees1">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		
 		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1VTp-IMZ58AS3ZPBo3sH5fr6D4crz1LGj/view">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+
       </div>
 
 </p>
