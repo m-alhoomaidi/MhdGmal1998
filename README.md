@@ -31,7 +31,7 @@ Mohammed </a> <img width="30px" src="https://raw.githubusercontent.com/iampavang
 
  ## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
   
-[![Mohammed's Graph](https://activity-graph.herokuapp.com/graph?username=Deepshikhayadav&area=true&hide_border=true&theme=dracula)](https://activitygraph.herokuapp.com/graph?username=MhdGmal1998&area=true&hide_border=true&theme=dracula)
+[![Mohammed's Graph](https://activity-graph.herokuapp.com/graph?username=MhdGmal1998&area=true&hide_border=true&theme=dracula)
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
